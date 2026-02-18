@@ -1,0 +1,39 @@
+# Données
+*.csv
+*.parquet
+*.pkl
+train_transaction.csv
+train_identity.csv
+test_transaction.csv
+test_identity.csv
+
+# Modèles entraînés (trop lourds pour GitHub)
+fraud_detection_models.pkl
+*.h5
+*.model
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Figures (optionnel, à garder si vous voulez les partager)
+# figures/*.png
