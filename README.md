@@ -110,10 +110,10 @@ python app/app.py
 
 ## 👥 Auteurs
 
-- **Farah REBAI**
-- **Lobna ELABED**
+MOHAMED CHTOUROU
+AMIR ABBES
 
-**Encadrant** : M. Riadh ABDELFATTAH
+
 
 **École** : École Supérieure des Communications de Tunis (Sup'Com)
 
