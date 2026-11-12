@@ -109,13 +109,13 @@ python app/app.py
 - `email_domain_comp` : Comparaison domaines email
 
 ## 👥 Auteurs
-
-MOHAMED CHTOUROU
 AMIR ABBES
+MOHAMED CHTOUROU
 
 
 
-**École** : École Supérieure des Communications de Tunis (Sup'Com)
+
+**École** : École Supérieure des Communications de Tunis (SUP'COM)
 
 **Année universitaire** : 2024-2025
 
